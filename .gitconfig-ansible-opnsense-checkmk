@@ -1,0 +1,10 @@
+[user]
+	email = 142526178+d3adc3iii@users.noreply.github.com
+	name = Jay Dinh
+  	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBR3c5ZQHYccja7qHnXhTFKVMnCmwbjrIdBa57Yd21U8 
+[gpg]
+	format = ssh
+[gpg "ssh"]
+	program = C:\\Program Files\\1Password\\app\\8\\op-ssh-sign.exe
+[commit]
+	gpgSign = true
